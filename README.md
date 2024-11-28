@@ -36,7 +36,7 @@ A simple Flutter app that demonstrates state management using the Provider packa
  1. Clone this repository:
 
 ```bash
-git clone <https://github.com/Williedaniels/favorites_final-Y2T3_project.git>
+git clone https://github.com/Williedaniels/favorites_final-Y2T3_project.git
 cd favorites_final-Y2T3_project
 ```
 
